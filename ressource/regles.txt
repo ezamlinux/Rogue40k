@@ -1,0 +1,20 @@
+Vous devez aider le soldat Gabriel à s'enfuir d'un donjon cerné
+par les infames Orks. Nos renseignements en distinguent 3 races :
+- Les Gretchins, plus bêtes que méchants, ils attaquent uniquement par contraintes.
+- des orks armés de fusils automatiques qui tireront à vue, on les surnomme 'BoyZ'.
+enfin, nos éclaireurs ont également découvert des Big Boss, des orks cruels equipés
+d'une armure meurtrière. Ils sont les plus dangereux de tous.
+
+Pour leur échapper, vous devez atteindre la sortie indiquée 
+par la couleur bleue( La meme que votre armure).
+Pour vous déplacer, il vous suffit d'utiliser les touches fléchées
+Mais prenez garde à ne pas trop trainer dans l'acide, ce liquide rouge transperce
+l'armure et vous ronge directement les os !
+Pour vous aider dans votre quête, vous pourrez utiliser des reliques, leurs auras violets
+soigneront vos maux. Des coffres remplis de bombes pourront aussi vous aider...au cas ou vous
+souhaiteriez faire exploser quelque chose...
+
+Les combats sont resolus de maniere 'Aleatoire' et automatiques
+en suivant les tables de résolutions du Codex officiel des Spaces Marines
+
+"Le vainqueur vit dans la gloire; Le vaincu meurt dans la honte"
